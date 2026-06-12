@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p>Visitor count</p>
   <img
-    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue"
+    src="https://komarev.com/ghpvc/?username=TBuggee&color=blue"
     alt="Profile Views"
   />
 </div>
