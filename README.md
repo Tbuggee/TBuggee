@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/TBuggee/count.svg" alt="Visitor's Count" />
+  <img
+    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue"
+    alt="Profile Views"
+  />
 </div>
