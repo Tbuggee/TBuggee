@@ -9,7 +9,7 @@ Python,
 JavaScript,
 HTML & CSS,
 Responsive Web Design,
-Git & GitHub
+Git & GitHub.
 
 My goal is to become a software engineer and gain real-world development experience through projects, internships, and open-source contributions.
 
@@ -17,7 +17,7 @@ I'm Currently Working On:
 
 Completing FreeCodeCamp's Python and JavaScript curriculum,
 Building personal projects to strengthen programming fundamentals,
-Developing a strong GitHub portfolio throughout university
+Developing a strong GitHub portfolio throughout university.
 
 Languages:
 Python,
@@ -29,7 +29,7 @@ Currently Learning:
 Data Structures & Algorithms,
 Object-Oriented Programming,
 Web Development,
-Software Engineering Best Practices
+Software Engineering Best Practices.
 
 
 Goals for 2026–2027:
@@ -38,7 +38,7 @@ Build 10+ portfolio projects,
 Contribute to open-source software,
 Earn a software engineering internship,
 Strengthen problem-solving skills through coding challenges,
-Continue expanding my knowledge of computer science fundamentals
+Continue expanding my knowledge of computer science fundamentals.
 
 
 Feel free to connect with me or follow my journey as I grow as a developer.
