@@ -1,5 +1,5 @@
 Hi, I'm Trevor 👋
-About Me
+
 
 I'm a Computer Science student passionate about software development, problem-solving, and continuous learning.
 
