@@ -9,7 +9,7 @@ Currently:
 - Looking for frontend developer internships and student web roles
 
 Tech:
-HTML | CSS | JavaScript | Git | GitHub | Responsive Design | React soon
+HTML | CSS | JavaScript | Git | GitHub | Responsive Design | React
 
 
 Goals for 2026–2027:
